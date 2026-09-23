@@ -1,0 +1,5 @@
+[
+  {"id":"L-01","email":"amina@example.test","consent":true,"email_opened":true,"clicked_offer":true,"demo_requested":true,"company_size":50,"days_since_activity":1},
+  {"id":"L-02","email":"rahim@example.test","consent":true,"email_opened":true,"clicked_offer":false,"demo_requested":false,"company_size":8,"days_since_activity":4},
+  {"id":"L-03","consent":false,"company_size":100,"days_since_activity":1}
+]
